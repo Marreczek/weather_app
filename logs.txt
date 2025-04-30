@@ -1,2 +1,5 @@
 2025-04-30 18:25:05.580169: Pobrano dane pogodowe miasta: London
 2025-04-30 18:40:52.433238: Pobrano dane pogodowe miasta: London
+2025-04-30 18:54:11.679096: Pobrano dane pogodowe miasta: London
+2025-04-30 18:55:35.481746: Pobrano dane pogodowe miasta: London
+2025-04-30 19:04:42.210779: Pobrano dane pogodowe miasta: London
