@@ -1,19 +1,27 @@
-from os import environ
+import time
 from dotenv import load_dotenv
 from services.fetch_weather import fetch_weather
-load_dotenv()
-from services.txt_file import create_log,logs_read
+from services.txt_file import create_log
+from services.excel_file import save_to_excel
 from datetime import datetime
+from config import Config
+load_dotenv()
 
-API_KEY = environ.get("API_KEY")
-CITY = environ.get("CITY")
 
-try:
-    weather = fetch_weather(API_KEY,CITY)
-    create_log(f"{datetime.now()}: Pobrano dane pogodowe miasta: {CITY}\n")
-    logs_read()
-    print(weather)
 
-except Exception as e:
-    print(e)
-    create_log(f"{datetime.now()}: Wystapił błąd {e} podczas pobierania danych dla miasta: {CITY}\n")
+def start():
+    weather = fetch_weather(Config.API_KEY,Config.CITY)
+    create_log(f"{datetime.now()}: Pobrano dane pogodowe miasta: {Config.CITY} \n")
+    # logs_read()
+    save_to_excel(Config.EXCEL_FILENAME, weather)
+
+while True:
+    try:
+        start()
+        print("Pobrano dane")
+
+    except Exception as e:
+        print(e)
+        create_log(f"{datetime.now()}: Wystapił błąd {e} podczas pobierania danych dla miasta: {Config.CITY} \n")
+
+    time.sleep(360)

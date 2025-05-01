@@ -3,3 +3,150 @@
 2025-04-30 18:54:11.679096: Pobrano dane pogodowe miasta: London
 2025-04-30 18:55:35.481746: Pobrano dane pogodowe miasta: London
 2025-04-30 19:04:42.210779: Pobrano dane pogodowe miasta: London
+2025-04-30 19:08:07.544261: Pobrano dane pogodowe miasta: Berlin
+2025-04-30 19:08:36.926708: Pobrano dane pogodowe miasta: London
+2025-04-30 19:43:32.554983: Pobrano dane pogodowe miasta: London
+2025-04-30 19:45:57.964149: Pobrano dane pogodowe miasta: London
+2025-04-30 19:45:57.966802: Wystapi³ b³¹d Value must be a list, tuple, range or generator, or a dict. Supplied value is <class 'dict_values'> podczas pobierania danych dla miasta: London
+2025-04-30 19:46:27.229827: Pobrano dane pogodowe miasta: London
+2025-04-30 19:46:53.663190: Pobrano dane pogodowe miasta: London
+2025-04-30 19:46:55.921433: Pobrano dane pogodowe miasta: London
+2025-04-30 19:48:12.615706: Pobrano dane pogodowe miasta: London
+2025-04-30 19:50:10.280041: Pobrano dane pogodowe miasta: London
+2025-04-30 19:53:38.892788: Pobrano dane pogodowe miasta: London
+2025-04-30 20:00:40.750327: Pobrano dane pogodowe miasta: London
+2025-04-30 20:01:40.903409: Pobrano dane pogodowe miasta: London
+2025-04-30 20:02:39.336757: Pobrano dane pogodowe miasta: London
+2025-04-30 20:18:47.057433: Pobrano dane pogodowe miasta: London
+2025-04-30 20:52:02.357028: Pobrano dane pogodowe miasta: London
+2025-04-30 20:52:02.358872: Wystapi³ b³¹d 'NoneType' object has no attribute 'keys' podczas pobierania danych dla miasta: London
+2025-04-30 20:54:51.773231: Pobrano dane pogodowe miasta: London
+2025-04-30 20:54:51.775122: Wystapi³ b³¹d 'NoneType' object has no attribute 'keys' podczas pobierania danych dla miasta: London
+2025-04-30 20:55:51.894535: Pobrano dane pogodowe miasta: London
+2025-04-30 20:55:51.896016: Wystapi³ b³¹d 'NoneType' object has no attribute 'keys' podczas pobierania danych dla miasta: London
+2025-04-30 20:56:52.198689: Pobrano dane pogodowe miasta: London
+2025-04-30 20:56:52.200159: Wystapi³ b³¹d 'NoneType' object has no attribute 'keys' podczas pobierania danych dla miasta: London
+2025-04-30 20:57:52.376621: Pobrano dane pogodowe miasta: London
+2025-04-30 20:57:52.377776: Wystapi³ b³¹d 'NoneType' object has no attribute 'keys' podczas pobierania danych dla miasta: London
+2025-04-30 20:58:11.796091: Pobrano dane pogodowe miasta: London
+2025-04-30 20:58:11.798235: Wystapi³ b³¹d 'NoneType' object has no attribute 'keys' podczas pobierania danych dla miasta: London
+2025-04-30 20:59:11.958195: Pobrano dane pogodowe miasta: London
+2025-04-30 20:59:11.959873: Wystapi³ b³¹d 'NoneType' object has no attribute 'keys' podczas pobierania danych dla miasta: London
+2025-04-30 20:59:47.637022: Pobrano dane pogodowe miasta: London
+2025-04-30 20:59:47.638848: Wystapi³ b³¹d 'NoneType' object has no attribute 'keys' podczas pobierania danych dla miasta: London
+2025-04-30 21:02:15.677288: Pobrano dane pogodowe miasta: London
+2025-04-30 21:02:15.679004: Wystapi³ b³¹d 'NoneType' object has no attribute 'keys' podczas pobierania danych dla miasta: London
+2025-04-30 21:02:58.102170: Wystapi³ b³¹d [Errno 22] Invalid argument: '{datetime.now()}: Pobrano dane pogodowe miasta: {Config.CITY}\n' podczas pobierania danych dla miasta: London
+2025-04-30 21:03:58.294852: Wystapi³ b³¹d [Errno 22] Invalid argument: '{datetime.now()}: Pobrano dane pogodowe miasta: {Config.CITY}\n' podczas pobierania danych dla miasta: London
+2025-04-30 21:04:58.432949: Wystapi³ b³¹d [Errno 22] Invalid argument: '{datetime.now()}: Pobrano dane pogodowe miasta: {Config.CITY}\n' podczas pobierania danych dla miasta: London
+2025-04-30 21:05:58.592130: Wystapi³ b³¹d [Errno 22] Invalid argument: '{datetime.now()}: Pobrano dane pogodowe miasta: {Config.CITY}\n' podczas pobierania danych dla miasta: London
+2025-04-30 21:20:55.811878: Pobrano dane pogodowe miasta: London
+2025-04-30 21:20:55.814109: Wystapi³ b³¹d 'NoneType' object has no attribute 'keys' podczas pobierania danych dla miasta: London
+2025-04-30 21:21:53.152011: Pobrano dane pogodowe miasta: London 
+2025-04-30 21:21:53.153844: Wystapi³ b³¹d 'NoneType' object has no attribute 'keys' podczas pobierania danych dla miasta: London
+2025-04-30 21:22:15.895005: Pobrano dane pogodowe miasta: London 
+2025-04-30 21:22:15.896861: Wystapi³ b³¹d 'NoneType' object has no attribute 'keys' podczas pobierania danych dla miasta: London 
+2025-04-30 21:23:16.040677: Pobrano dane pogodowe miasta: London 
+2025-04-30 21:23:16.041793: Wystapi³ b³¹d 'NoneType' object has no attribute 'keys' podczas pobierania danych dla miasta: London 
+2025-04-30 21:24:07.423963: Pobrano dane pogodowe miasta: London 
+2025-04-30 21:24:07.425826: Wystapi³ b³¹d 'NoneType' object has no attribute 'keys' podczas pobierania danych dla miasta: London 
+2025-04-30 21:25:07.557757: Pobrano dane pogodowe miasta: London 
+2025-04-30 21:25:07.559080: Wystapi³ b³¹d 'NoneType' object has no attribute 'keys' podczas pobierania danych dla miasta: London 
+2025-04-30 21:25:41.075992: Pobrano dane pogodowe miasta: London 
+
+2025-04-30 21:25:41.077835: Wystapi³ b³¹d 'NoneType' object has no attribute 'keys' podczas pobierania danych dla miasta: London 
+
+2025-04-30 21:26:41.267504: Pobrano dane pogodowe miasta: London 
+
+2025-04-30 21:26:41.268733: Wystapi³ b³¹d 'NoneType' object has no attribute 'keys' podczas pobierania danych dla miasta: London 
+
+2025-04-30 21:26:44.745623: Pobrano dane pogodowe miasta: London 
+
+2025-04-30 21:26:44.747294: WystapiÅ‚ bÅ‚Ä…d 'NoneType' object has no attribute 'keys' podczas pobierania danych dla miasta: London 
+
+2025-04-30 21:27:44.867972: Pobrano dane pogodowe miasta: London 
+
+2025-04-30 21:27:44.869385: WystapiÅ‚ bÅ‚Ä…d 'NoneType' object has no attribute 'keys' podczas pobierania danych dla miasta: London 
+
+2025-04-30 21:28:45.009097: Pobrano dane pogodowe miasta: London 
+
+2025-04-30 21:28:45.010401: WystapiÅ‚ bÅ‚Ä…d 'NoneType' object has no attribute 'keys' podczas pobierania danych dla miasta: London 
+
+2025-04-30 21:29:45.126727: Pobrano dane pogodowe miasta: London 
+
+2025-04-30 21:29:45.128286: WystapiÅ‚ bÅ‚Ä…d 'NoneType' object has no attribute 'keys' podczas pobierania danych dla miasta: London 
+
+2025-04-30 21:33:13.777444: Pobrano dane pogodowe miasta: London 
+
+2025-04-30 21:33:13.778817: WystapiÅ‚ bÅ‚Ä…d 'NoneType' object has no attribute 'keys' podczas pobierania danych dla miasta: London 
+
+2025-04-30 21:35:37.795668: Pobrano dane pogodowe miasta: London 
+
+2025-04-30 21:35:37.797073: WystapiÅ‚ bÅ‚Ä…d 'NoneType' object has no attribute 'keys' podczas pobierania danych dla miasta: London 
+
+2025-04-30 21:36:37.932146: Pobrano dane pogodowe miasta: London 
+
+2025-04-30 21:36:37.933373: WystapiÅ‚ bÅ‚Ä…d 'NoneType' object has no attribute 'keys' podczas pobierania danych dla miasta: London 
+
+2025-04-30 21:37:38.062653: Pobrano dane pogodowe miasta: London 
+
+2025-04-30 21:37:38.063878: WystapiÅ‚ bÅ‚Ä…d 'NoneType' object has no attribute 'keys' podczas pobierania danych dla miasta: London 
+
+2025-04-30 21:38:07.507973: Pobrano dane pogodowe miasta: London 
+
+2025-04-30 21:38:07.509097: WystapiÅ‚ bÅ‚Ä…d 'NoneType' object has no attribute 'keys' podczas pobierania danych dla miasta: London 
+
+2025-04-30 21:39:32.490144: Pobrano dane pogodowe miasta: London 
+
+2025-04-30 21:39:32.491496: WystapiÅ‚ bÅ‚Ä…d 'NoneType' object has no attribute 'keys' podczas pobierania danych dla miasta: London 
+
+2025-04-30 21:40:32.619844: Pobrano dane pogodowe miasta: London 
+
+2025-04-30 21:40:32.621275: WystapiÅ‚ bÅ‚Ä…d 'NoneType' object has no attribute 'keys' podczas pobierania danych dla miasta: London 
+
+2025-04-30 21:41:32.734812: Pobrano dane pogodowe miasta: London 
+
+2025-04-30 21:41:32.735934: WystapiÅ‚ bÅ‚Ä…d 'NoneType' object has no attribute 'keys' podczas pobierania danych dla miasta: London 
+
+2025-05-01 17:57:43.388571: Pobrano dane pogodowe miasta: London 
+
+2025-05-01 17:57:43.390937: WystapiÅ‚ bÅ‚Ä…d 'NoneType' object has no attribute 'keys' podczas pobierania danych dla miasta: London 
+
+2025-05-01 18:00:17.664340: Pobrano dane pogodowe miasta: London 
+
+2025-05-01 18:00:17.665702: WystapiÅ‚ bÅ‚Ä…d 'NoneType' object has no attribute 'keys' podczas pobierania danych dla miasta: London 
+
+2025-05-01 18:00:46.294053: Pobrano dane pogodowe miasta: London 
+
+2025-05-01 18:00:46.295434: WystapiÅ‚ bÅ‚Ä…d 'NoneType' object has no attribute 'keys' podczas pobierania danych dla miasta: London 
+
+2025-05-01 18:02:18.702081: Pobrano dane pogodowe miasta: London 
+
+2025-05-01 18:02:18.703513: WystapiÅ‚ bÅ‚Ä…d 'NoneType' object has no attribute 'keys' podczas pobierania danych dla miasta: London 
+
+2025-05-01 18:08:18.253556: Pobrano dane pogodowe miasta: London 
+
+2025-05-01 18:08:18.254897: WystapiÅ‚ bÅ‚Ä…d 'NoneType' object has no attribute 'keys' podczas pobierania danych dla miasta: London 
+
+2025-05-01 18:09:00.585878: Pobrano dane pogodowe miasta: London 
+
+2025-05-01 18:09:00.587553: WystapiÅ‚ bÅ‚Ä…d 'NoneType' object has no attribute 'keys' podczas pobierania danych dla miasta: London 
+
+2025-05-01 18:09:52.722548: Pobrano dane pogodowe miasta: London 
+
+2025-05-01 18:09:52.724010: WystapiÅ‚ bÅ‚Ä…d 'NoneType' object has no attribute 'keys' podczas pobierania danych dla miasta: London 
+
+2025-05-01 18:10:09.717659: Pobrano dane pogodowe miasta: London 
+
+2025-05-01 18:10:09.719223: WystapiÅ‚ bÅ‚Ä…d 'NoneType' object has no attribute 'keys' podczas pobierania danych dla miasta: London 
+
+2025-05-01 18:13:34.495250: Pobrano dane pogodowe miasta: London 
+
+2025-05-01 18:13:34.497271: WystapiÅ‚ bÅ‚Ä…d 'NoneType' object has no attribute 'keys' podczas pobierania danych dla miasta: London 
+
+2025-05-01 18:14:07.271136: Pobrano dane pogodowe miasta: London 
+
+2025-05-01 18:14:27.653385: Pobrano dane pogodowe miasta: London 
+
+2025-05-01 18:15:08.427389: Pobrano dane pogodowe miasta: London 
+
