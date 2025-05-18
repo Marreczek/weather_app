@@ -1,5 +1,4 @@
 import requests
-import time
 from datetime import datetime
 
 from utils.to_celsius import to_celsius

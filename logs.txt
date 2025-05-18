@@ -150,3 +150,36 @@
 
 2025-05-01 18:15:08.427389: Pobrano dane pogodowe miasta: London 
 
+2025-05-17 14:09:25.194687: Pobrano dane pogodowe miasta: None 
+
+2025-05-17 14:09:37.824622: Pobrano dane pogodowe miasta: None 
+
+2025-05-17 14:09:47.957841: Pobrano dane pogodowe miasta: None 
+
+2025-05-17 14:09:58.083807: Pobrano dane pogodowe miasta: None 
+
+2025-05-17 14:10:13.159949: Pobrano dane pogodowe miasta: London 
+
+2025-05-17 14:10:23.287963: Pobrano dane pogodowe miasta: London 
+
+2025-05-17 14:10:33.413710: Pobrano dane pogodowe miasta: London 
+
+2025-05-17 14:10:33.417607: Wystapił błąd [Errno 13] Permission denied: 'pogoda.xlsx' podczas pobierania danych dla miasta: London 
+
+2025-05-17 14:10:43.534774: Pobrano dane pogodowe miasta: London 
+
+2025-05-17 14:10:43.539194: Wystapił błąd [Errno 13] Permission denied: 'pogoda.xlsx' podczas pobierania danych dla miasta: London 
+
+2025-05-17 14:10:53.660312: Pobrano dane pogodowe miasta: London 
+
+2025-05-18 13:26:27.022858: Pobrano dane pogodowe miasta: None 
+2025-05-18 13:26:37.168597: Pobrano dane pogodowe miasta: None 
+2025-05-18 13:31:26.715201: Pobrano dane pogodowe miasta: None 
+2025-05-18 13:32:35.921103: Pobrano dane pogodowe miasta: None 
+2025-05-18 13:32:46.122079: Pobrano dane pogodowe miasta: None 
+2025-05-18 13:33:00.101499: Pobrano dane pogodowe miasta: None 
+2025-05-18 13:33:10.242613: Pobrano dane pogodowe miasta: None 
+2025-05-18 13:33:20.393802: Pobrano dane pogodowe miasta: None 
+2025-05-18 13:33:30.598930: Pobrano dane pogodowe miasta: None 
+2025-05-18 13:33:40.715972: Pobrano dane pogodowe miasta: None 
+2025-05-18 13:33:50.828192: Pobrano dane pogodowe miasta: None 

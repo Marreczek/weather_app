@@ -1,8 +1,5 @@
 import os
-from fileinput import filename
-from config import Config
-from openpyxl import Workbook
-from openpyxl.reader.excel import load_workbook
+from openpyxl import Workbook, load_workbook
 
 def save_to_excel(filename, data):
     if os.path.exists(filename):
