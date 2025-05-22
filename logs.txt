@@ -183,3 +183,7 @@
 2025-05-18 13:33:30.598930: Pobrano dane pogodowe miasta: None 
 2025-05-18 13:33:40.715972: Pobrano dane pogodowe miasta: None 
 2025-05-18 13:33:50.828192: Pobrano dane pogodowe miasta: None 
+2025-05-22 19:45:38.765725: Pobrano dane pogodowe miasta: None 
+2025-05-22 19:46:27.323821: Pobrano dane pogodowe miasta: None 
+2025-05-22 19:46:38.622851: Pobrano dane pogodowe miasta: None 
+2025-05-22 19:46:48.804897: Pobrano dane pogodowe miasta: None 
